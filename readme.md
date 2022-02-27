@@ -9,7 +9,5 @@
 | WEEK 4   |[Questions](https://github.com/Patika-PayCore-BootCamp-Organization/hw-4-Enummethod/blob/main/readme.md)|[Homework 4](https://github.com/Patika-PayCore-BootCamp-Organization/hw-4-Enummethod/blob/1390875d24a48c0a35dcda4361db4bbc7a73a2ed/Homework-4.pdf)|<p align="center">:heavy_check_mark:|       
 | WEEK 5   |[Questions](https://github.com/Patika-PayCore-BootCamp-Organization/hw-5-Enummethod/blob/main/readme.md)|[Homework 5](https://github.com/Patika-PayCore-BootCamp-Organization/hw-5-Enummethod/blob/main/Homework-5.pdf)|<p align="center">:heavy_check_mark:|   
 | WEEK 6   |[Questions](https://github.com/Patika-PayCore-BootCamp-Organization/hw-6-Enummethod/blob/main/readme.md)|[Homework 6](https://github.com/Patika-PayCore-BootCamp-Organization/hw-6-Enummethod/blob/main/Homework-6.pdf)|<p align="center">:heavy_check_mark:|
-| WEEK 7   |                      |         |          |  
-| Project  |[Readme](https://github.com/Patika-PayCore-BootCamp-Organization/hw-project-Enummethod/blob/main/readme.md)|[Project](https://github.com/Patika-PayCore-BootCamp-Organization/hw-project-Enummethod)         |          |  
-| HProject |                      |         |          |  
+| Project  |[Readme](https://github.com/Enummethod/Patika_Paycore_Project/blob/main/readme.pdf)|[Project](https://github.com/Enummethod/Patika_Paycore_Project)|<p align="center">:heavy_check_mark:| 
 
